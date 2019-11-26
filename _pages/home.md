@@ -1,7 +1,6 @@
 ---
-title: "Allan Lab - Home"
+title: "GNSSinCryosphere - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
 sitemap: false
 permalink: /
 ---
