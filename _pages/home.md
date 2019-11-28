@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-Permafrost is the ground whose temperature remains at or below 0 °C for at least two consecutive years. Changes of permafrost have crucial impact on water and carbon cycles. We have to monitor and measure such changes.
+Permafrost is the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is a layer undergoing seasonal freezing/thawing, which is called active layer. Changes of permafrost and active layer have crucial impact on water and carbon cycles. GNSS Reflecometry can be used to monitor and measure such changes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
