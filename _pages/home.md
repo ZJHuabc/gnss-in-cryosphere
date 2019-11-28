@@ -1,11 +1,11 @@
 ---
-title: "GNSSinCryosphere - Home"
+title: "GNSS RECIPE - Home"
 layout: homelay
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Permafrost is the ground whose temperature remains at or below 0 °C for at least two consecutive years. Changes of permafrost have crucial impact on water and carbon cycles. We have to monitor and measure such changes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
