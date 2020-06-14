@@ -10,9 +10,9 @@ permalink: /
 Permafrost is the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is a layer undergoing seasonal freezing/thawing, which is called active layer. Changes of permafrost and active layer have crucial impact on water and carbon cycles. GNSS Reflecometry can be used to monitor and measure such changes.
 
 
-
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
+    
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -23,7 +23,7 @@ Permafrost is the ground whose temperature remains at or below 0 °C for at leas
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+    
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
@@ -57,11 +57,14 @@ Permafrost is the ground whose temperature remains at or below 0 °C for at leas
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
 
 
 <figure class="fourth">
+    <!--
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+-->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
