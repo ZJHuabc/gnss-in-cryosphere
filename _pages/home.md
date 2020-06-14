@@ -59,7 +59,8 @@ Permafrost is the ground whose temperature remains at or below 0 °C for at leas
 </div>
 -->
 
-
+<div>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/gpsir.png">
 </figure>
+</div>
