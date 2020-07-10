@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 layout: gridlay
-excerpt: "Publications."
+excerpt: "Publications"
 sitemap: false
 permalink: /publications/
 ---
@@ -9,6 +9,7 @@ permalink: /publications/
 
 # Publications
 
+<!--
 ## Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
@@ -51,8 +52,9 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+-->
 
-## Full List
+<!-- ## Full List -->
 
 {% for publi in site.data.publist %}
 
