@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-<!-- # Publications -->
+# Publications
 
 <!--
 ## Highlights
@@ -54,7 +54,7 @@ permalink: /publications/
 
 -->
 
-# Full List
+<!-- # Full List -->
 
 {% for publi in site.data.publist %}
 
