@@ -14,7 +14,7 @@ Jump to: [Qilian Mountains (祁连山)](# Qilian Mountains (祁连山)), [Jingxi
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures_Qilian %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
