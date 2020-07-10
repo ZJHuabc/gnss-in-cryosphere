@@ -11,7 +11,7 @@ Jump to: [Qilian Mountains (祁连山)](# Qilian Mountains (祁连山)), [Jingxi
 
 ## Qilian Mountains (祁连山)
 
-#### Gallery
+<!-- #### Gallery -->
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_qilian %}
