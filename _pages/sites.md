@@ -1,6 +1,6 @@
 ---
 title: "Sites"
-layout: homelay
+layout: sites
 sitemap: false
 permalink: /sites
 ---
