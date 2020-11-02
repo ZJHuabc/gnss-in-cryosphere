@@ -1,19 +1,18 @@
 ---
-title: "GNSS RECIPE - Home"
+title: "Home"
 layout: homelay
 sitemap: false
 permalink: /
 ---
 
 
+GNSS interferometric reflectometry (GNSS-IR) is a kind of technique exploiting reflected nagivation satellite signals to measure environmental variables, such as snow depth, water level changes, and surface soil moisture content (Larson, 2019). 
 
-GNSS RECIPE refers to using GNSS Reflectometry (GNSS-R) to study changes in permafrost areas, such as snow depth, surface soil moisture, vegetation growth condition, ground surface elevation changes, and also freeze/thaw onset detection. Permafrost is the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost usually exists in polar and alpine regions due to cold climate. It is underlain nearly 24% of the land area in Northern Hemisphere. Changes of permafrost and active layer have crucial impact on hydrological, geomorphological, and ecological processes.
+GNSS-IR can be used to measure ground surface elevation changes in snow-free seasons to study the changes in permafrost areas. Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost usually exists in polar and alpine regions due to cold climate. It is underlain nearly 24% of the land area in Northern Hemisphere. Changes of permafrost and active layer have crucial impact on hydrological, geomorphological, and ecological processes.
 
-GNSS-R is the technique exploiting the reflected nagivation satellite signals. Specifically, GNSS Interferometry Reflectometry (GNSS-IR) is the one using the interference pattern between the direct signals and reflected ones. Ground-based GNSS receivers record signal-to-noise ratio (SNR) data. these records can reflect the interference pattern. The metrics of the interference pattern, such as amplitude, phase, and frequency, depends on the geometry of reflected signals and receiver antenna, surface properties, and antenna gain pattern. These metrics can be used to estimate changes of geophysical parameters of reflecting surface.
+More than 200 GNSS stations are continously operating in the permafrost areas in Northern Hemisphere. Identifying the usable sites for GNSS-IR studies from the existing ones are significantly meaningful. 
 
-More than 200 GNSS stations are continously operating in the permafrost areas in Northern Hemisphere (Fig. 1 (b)). Identifying the usable sites for GNSS-IR studies from the existing ones are significantly meaningful. Those usable stations can fill a gap of the existing permafrost monitoring programs (e.g., CALM and GTN-P). They can provide complementary measurements for studying permafrost. As the GNSS-IR measurements have the spatial coverages on the order of 1000 m^2, they can be used to calibrate/validate remote sensing observations.
-
-We have identified numerous usable GNSS stations. They are public sites, located in permafrost areas, and continuously operating. Some of them has been publised in the paper Zhang et al., 2020.
+We have identified multiple GNSS stations, which are located in permafrost areas and usable for GNSS-IR studies. And the GNSS observation files are available for public. 
 
 
 <!--
