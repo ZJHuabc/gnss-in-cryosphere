@@ -65,6 +65,6 @@ We have identified multiple GNSS stations, which are located in permafrost areas
 -->
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/gpsir.png" width="95%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gpsir.png" width="50%">
 </figure>
 
