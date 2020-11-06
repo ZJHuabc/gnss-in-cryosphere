@@ -1,6 +1,6 @@
 ---
 title: "Sites"
-layout: sites
+layout: sites_map
 sitemap: false
 permalink: /sites
 ---
