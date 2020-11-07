@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Add Map</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD10Fid-ovVypHgfvy9OqRDNz65arl-lP8&callback=initMap&libraries=&v=weekly"
       defer
     ></script>
+
     <style type="text/css">
       /* Set the size of the div element that contains the map */
       #map {
@@ -15,6 +28,7 @@
         /* The width is the width of the web page */
       }
     </style>
+
     <script>
       // Initialize and add the map
       function initMap() {
@@ -32,10 +46,13 @@
         });
       }
     </script>
+
   </head>
+
   <body>
     <h3>My Google Maps Demo</h3>
     <!--The div element for the map -->
     <div id="map"></div>
   </body>
+  
 </html>
