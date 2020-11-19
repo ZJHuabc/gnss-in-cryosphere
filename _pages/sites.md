@@ -10,8 +10,8 @@ permalink: /sites
 <div style="width:100%; height:400px; border:none; text-align:center">
 	<iframe 
 	src = src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD10Fid-ovVypHgfvy9OqRDNz65arl-lP8&callback=initMap&libraries=&v=weekly"
+	id = "map"
 	defer
-	></iframe>
 	<script>
       // Initialize and add the map
       function initMap() {
@@ -29,4 +29,6 @@ permalink: /sites
         });
       }
     </script>
+	></iframe>
+
 </div>
