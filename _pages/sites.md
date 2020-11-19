@@ -9,7 +9,6 @@ permalink: /sites
 
 
 <div style="width:100%; height:400px; border:none; text-align:center">
-	<head>
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD10Fid-ovVypHgfvy9OqRDNz65arl-lP8&callback=initMap&libraries=&v=weekly"
       defer
@@ -31,10 +30,7 @@ permalink: /sites
         });
       }
     </script>
-  </head>
-  <body>
-    <h3>My Google Maps Demo</h3>
-    <!--The div element for the map -->
-    <div id="map"></div>
-  </body>
+
+	id="map">
+
 </div>
