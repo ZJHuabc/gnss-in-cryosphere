@@ -12,6 +12,6 @@ permalink: /sites
 
 <div style="width:100%; height:400px; border:none; text-align:center">
 
-    <iframe height="400" width="400" frameborder="0" src="{{ site.url }} {{ site.baseurl }}/maps/ {{ sites_map.html }}"></iframe>
+    <iframe height="400" width="400" frameborder="0" src="{{ site.url }} {{ site.baseurl }} /maps/sites_map.html"></iframe>
 
 </div>
