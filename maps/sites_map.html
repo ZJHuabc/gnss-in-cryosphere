@@ -18,16 +18,52 @@
     <script>
       // Initialize and add the map
       function initMap() {
-        // The location of Uluru
-        const uluru = { lat: -25.344, lng: 131.036 };
-        // The map, centered at Uluru
+        // The locations suitable sites for GNSS reflections
+        // canada CACS
+        const alrt = { lat: 82.4943, lng: -62.3405 };
+        const reso = { lat: 74.6908, lng: -94.8937 };
+        const bake = { lat: 64.3178, lng: -96.0022 };
+        const iqal = { lat: 63.7558, lng: -68.5103 };
+        const repl = { lat: 66.5236, lng: -86.2310 };
+
+        // canada CHAIN
+        const fsic = { lat: 61.7566, lng: -121.2281 };
+        const fsmc = { lat: 60.0261, lng: -111.9329 };
+        const iqac = { lat: 63.7374, lng: -68.5403 };
+        const ponc = { lat: 72.6932, lng: -77.9550 };
+        const ranc = { lat: 62.8247, lng: -92.1147 };
+        //const repc = repl;
+        const sanc = { lat: 56.5364, lng: -79.2312 };
+
+        // greenland GNET
+        const jgbl = { lat: 82.2088, lng: -31.0042 };
+        const kmjp = { lat: 83.6432, lng: -33.3771 };
+        const scby = { lat: 80.2601, lng: -59.5936 };
+
+        // IGS
+        const kiru = { lat: 67.8572, lng: 20.9683 };
+        const sach = { lat: 71.9903, lng: -125.2497 };
+        const utqi = { lat: 71.3228, lng: -156.6150 };
+
+        // US PBO
+        const ab39 = { lat: 66.5593, lng: -145.2126 };
+        const ac07 = { lat: 65.9613, lng: -161.2866 };
+        const ac71 = { lat: 64.0493, lng: -145.7136 };
+        const ac78 = { lat: 63.1135, lng: -142.0279 };
+        const sg27 = { lat: 71.3229, lng: -156.6103 };
+        const wikr = { lat: 63.5527, lng: -150.9222 };
+
+        // map center
+        const cetr = { lat: 70, lng: -70 };
+
+        // The map, centered at cetr
         const map = new google.maps.Map(document.getElementById("map"), {
           zoom: 4,
-          center: uluru,
+          center: cetr,
         });
-        // The marker, positioned at Uluru
+        // The marker, positioned at cetr
         const marker = new google.maps.Marker({
-          position: uluru,
+          position: cetr,
           map: map,
         });
       }
