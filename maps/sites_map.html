@@ -9,7 +9,7 @@
     <style type="text/css">
       /* Set the size of the div element that contains the map */
       #map {
-        height: 400px;
+        height: 500px;
         /* The height is 400 pixels */
         width: 100%;
         /* The width is the width of the web page */
@@ -96,14 +96,14 @@
         // create markers
         for (let gnss_site of gnss_sites.keys())
         {
-          const temp = new google.maps.Marker(
+          new google.maps.Marker(
           {
             position: gnss_sites(gnss_site),
             map: map,
-            title: $gnss_site
+            //title: $gnss_site
           });
 
-          gnss_sites(gnss_site) = temp;
+          //gnss_sites(gnss_site) = temp;
         }
       }
     </script>
