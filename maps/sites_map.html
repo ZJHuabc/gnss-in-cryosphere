@@ -94,12 +94,15 @@
           center: cetr,
         });
         // create markers
-        for (let gnss_site of gnss_sites.keys()){
-          const temp = new google.maps.Marker({
-          position: gnss_sites(gnss_site),
-          map: map,
-          title: ${gnss_site}});
-          
+        for (let gnss_site of gnss_sites.keys())
+        {
+          const temp = new google.maps.Marker(
+          {
+            position: gnss_sites(gnss_site),
+            map: map,
+            title: $gnss_site
+          });
+
           gnss_sites(gnss_site) = temp;
         }
       }
