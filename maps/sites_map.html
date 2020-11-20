@@ -19,12 +19,20 @@
       // Initialize and add the map
       function initMap() {
         // The locations suitable sites for GNSS reflections
+        let gnss_sites = new Set();
+
         // canada CACS
         const alrt = { lat: 82.4943, lng: -62.3405 };
         const reso = { lat: 74.6908, lng: -94.8937 };
         const bake = { lat: 64.3178, lng: -96.0022 };
         const iqal = { lat: 63.7558, lng: -68.5103 };
         const repl = { lat: 66.5236, lng: -86.2310 };
+
+        gnss_sites.add(alrt);
+        gnss_sites.add(reso);
+        gnss_sites.add(bake);
+        gnss_sites.add(iqal);
+        gnss_sites.add(repl);
 
         // canada CHAIN
         const fsic = { lat: 61.7566, lng: -121.2281 };
@@ -35,15 +43,30 @@
         //const repc = repl;
         const sanc = { lat: 56.5364, lng: -79.2312 };
 
+        gnss_sites.add(fsic);
+        gnss_sites.add(fsmc);
+        gnss_sites.add(iqac);
+        gnss_sites.add(ponc);
+        gnss_sites.add(ranc);
+        gnss_sites.add(sanc);
+
         // greenland GNET
         const jgbl = { lat: 82.2088, lng: -31.0042 };
         const kmjp = { lat: 83.6432, lng: -33.3771 };
         const scby = { lat: 80.2601, lng: -59.5936 };
 
+        gnss_sites.add(jgbl);
+        gnss_sites.add(kmjp);
+        gnss_sites.add(scby);
+
         // IGS
         const kiru = { lat: 67.8572, lng: 20.9683 };
         const sach = { lat: 71.9903, lng: -125.2497 };
         const utqi = { lat: 71.3228, lng: -156.6150 };
+
+        gnss_sites.add(kiru);
+        gnss_sites.add(sach);
+        gnss_sites.add(utqi);
 
         // US PBO
         const ab39 = { lat: 66.5593, lng: -145.2126 };
@@ -53,19 +76,31 @@
         const sg27 = { lat: 71.3229, lng: -156.6103 };
         const wikr = { lat: 63.5527, lng: -150.9222 };
 
+        gnss_sites.add(ab39);
+        gnss_sites.add(ac07);
+        gnss_sites.add(ac71);
+        gnss_sites.add(ac78);
+        gnss_sites.add(sg27);
+        gnss_sites.add(wikr);
+
+        const gnss_sites_count = gnss_sites.size;
+
         // map center
         const cetr = { lat: 70, lng: -70 };
 
         // The map, centered at cetr
         const map = new google.maps.Map(document.getElementById("map"), {
-          zoom: 4,
+          zoom: 2,
           center: cetr,
         });
-        // The marker, positioned at cetr
-        const marker = new google.maps.Marker({
-          position: cetr,
+        // create markers
+        for (let gnss_site of gnss_sites.keys()){
+          const temp = new google.maps.Marker({
+          position: gnss_sites(gnss_site),
           map: map,
-        });
+          title: ${gnss_site}
+          gnss_sites(gnss_site) = temp;
+        }
       }
     </script>
   </head>
