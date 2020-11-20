@@ -9,7 +9,7 @@
     <style type="text/css">
       /* Set the size of the div element that contains the map */
       #map {
-        height: 500px;
+        height: 400px;
         /* The height is 400 pixels */
         width: 100%;
         /* The width is the width of the web page */
@@ -20,6 +20,7 @@
       function initMap() {
         // The locations suitable sites for GNSS reflections
         let gnss_sites = new Set();
+        let gnss_sites_mk = new Set();
 
         // canada CACS
         const alrt = { lat: 82.4943, lng: -62.3405 };
@@ -33,6 +34,18 @@
         gnss_sites.add(bake);
         gnss_sites.add(iqal);
         gnss_sites.add(repl);
+
+        const mk_alrt;
+        const mk_reso;
+        const mk_bake;
+        const mk_iqal;
+        const mk_repl;
+
+        gnss_sites_mk.add(mk_alrt);
+        gnss_sites_mk.add(mk_reso);
+        gnss_sites_mk.add(mk_bake);
+        gnss_sites_mk.add(mk_iqal);
+        gnss_sites_mk.add(mk_repl);
 
         // canada CHAIN
         const fsic = { lat: 61.7566, lng: -121.2281 };
@@ -50,6 +63,20 @@
         gnss_sites.add(ranc);
         gnss_sites.add(sanc);
 
+        const mk_fsic;
+        const mk_fsmc;
+        const mk_iqac;
+        const mk_ponc;
+        const mk_ranc;
+        const mk_sanc;
+
+        gnss_sites_mk.add(mk_fsic);
+        gnss_sites_mk.add(mk_fsmc);
+        gnss_sites_mk.add(mk_iqac);
+        gnss_sites_mk.add(mk_ponc);
+        gnss_sites_mk.add(mk_ranc);
+        gnss_sites_mk.add(mk_sanc);
+
         // greenland GNET
         const jgbl = { lat: 82.2088, lng: -31.0042 };
         const kmjp = { lat: 83.6432, lng: -33.3771 };
@@ -59,6 +86,15 @@
         gnss_sites.add(kmjp);
         gnss_sites.add(scby);
 
+        const mk_jgbl;
+        const mk_kmlp;
+        const mk_scby;
+
+        gnss_sites_mk.add(mk_jgbl);
+        gnss_sites_mk.add(mk_kmlp);
+        gnss_sites_mk.add(mk_scby);
+
+
         // IGS
         const kiru = { lat: 67.8572, lng: 20.9683 };
         const sach = { lat: 71.9903, lng: -125.2497 };
@@ -67,6 +103,14 @@
         gnss_sites.add(kiru);
         gnss_sites.add(sach);
         gnss_sites.add(utqi);
+
+        const mk_kiru;
+        const mk_sach;
+        const mk_utqi;
+
+        gnss_sites_mk.add(mk_kiru);
+        gnss_sites_mk.add(mk_sach);
+        gnss_sites_mk.add(mk_utqi);
 
         // US PBO
         const ab39 = { lat: 66.5593, lng: -145.2126 };
@@ -83,6 +127,20 @@
         gnss_sites.add(sg27);
         gnss_sites.add(wikr);
 
+        const mk_ab39;
+        const mk_ac07;
+        const mk_ac71;
+        const mk_ac78;
+        const mk_sg27;
+        const mk_wikr;
+
+        gnss_sites_mk.add(mk_ab39);
+        gnss_sites_mk.add(mk_ac07);
+        gnss_sites_mk.add(mk_ac71);
+        gnss_sites_mk.add(mk_ac78);
+        gnss_sites_mk.add(mk_sg27);
+        gnss_sites_mk.add(mk_wikr);
+
         const gnss_sites_count = gnss_sites.size;
 
         // map center
@@ -94,6 +152,7 @@
           center: cetr,
         });
         // create markers
+        /*
         for (let gnss_site of gnss_sites.keys())
         {
           new google.maps.Marker(
@@ -105,6 +164,126 @@
 
           //gnss_sites(gnss_site) = temp;
         }
+        */
+        const mk_alrt = new google.maps.Marker({
+          position: alrt,
+          map: map,
+          title: "alrt",
+        });
+        const mk_reso = new google.maps.Marker({
+          position: reso,
+          map: map,
+          title: "reso",
+        });
+        const mk_repl = new google.maps.Marker({
+          position: repl,
+          map: map,
+          title: "repl",
+        });
+        const mk_bake = new google.maps.Marker({
+          position: bake,
+          map: map,
+          title: "bake",
+        });
+        const mk_iqal = new google.maps.Marker({
+          position: iqal,
+          map: map,
+          title: "iqal",
+        });
+
+        const mk_fsic = new google.maps.Marker({
+          position: fsic,
+          map: map,
+          title: "fsic",
+        });
+        const mk_fsmc = new google.maps.Marker({
+          position: fsmc,
+          map: map,
+          title: "fsmc",
+        });
+        const mk_iqac = new google.maps.Marker({
+          position: iqac,
+          map: map,
+          title: "iqac",
+        });
+        const mk_ponc = new google.maps.Marker({
+          position: ponc,
+          map: map,
+          title: "ponc",
+        });
+        const mk_ranc = new google.maps.Marker({
+          position: ranc,
+          map: map,
+          title: "ranc",
+        });
+        const mk_sanc = new google.maps.Marker({
+          position: sanc,
+          map: map,
+          title: "sanc",
+        });
+
+        const mk_jgbl = new google.maps.Marker({
+          position: jgbl,
+          map: map,
+          title: "jgbl",
+        });
+        const mk_kmlp = new google.maps.Marker({
+          position: kmlp,
+          map: map,
+          title: "kmlp",
+        });
+        const mk_scby = new google.maps.Marker({
+          position: scby,
+          map: map,
+          title: "scby",
+        });
+
+        const mk_kiru = new google.maps.Marker({
+          position: kiru,
+          map: map,
+          title: "kiru",
+        });
+        const mk_sach = new google.maps.Marker({
+          position: sach,
+          map: map,
+          title: "sach",
+        });
+        const mk_utqi = new google.maps.Marker({
+          position: utqi,
+          map: map,
+          title: "utqi",
+        });
+
+        const mk_ab39 = new google.maps.Marker({
+          position: ab39,
+          map: map,
+          title: "ab39",
+        });
+        const mk_ac07 = new google.maps.Marker({
+          position: ac07,
+          map: map,
+          title: "ac07",
+        });
+        const mk_ac71 = new google.maps.Marker({
+          position: ac71,
+          map: map,
+          title: "ac71",
+        });
+        const mk_ac78 = new google.maps.Marker({
+          position: ac78,
+          map: map,
+          title: "ac78",
+        });
+        const mk_sg27 = new google.maps.Marker({
+          position: sg27,
+          map: map,
+          title: "sg27",
+        });
+        const mk_wikr = new google.maps.Marker({
+          position: wikr,
+          map: map,
+          title: "wikr",
+        });
       }
     </script>
   </head>
