@@ -5,14 +5,11 @@ sitemap: false
 permalink: /
 ---
 
+Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost is underlain nearly 24% of the land area in Northern Hemisphere (Zhang et al., xxxx). The changes in the active layer and permafrost have crucial impact on the hydrological, geomorphological, and ecological processes. The ground surface in the permafrost regions is subject to uplift/subsidence seasonally, due to the active layer freezing/thawing. **Surface elevation changes can indicate the thermal and hydrological changes in the frozen ground**. 
 
-GNSS interferometric reflectometry (GNSS-IR) is a kind of technique exploiting reflected nagivation satellite signals to measure environmental variables, such as snow depth, water level changes, and surface soil moisture content (Larson, 2019). 
+GNSS interferometric reflectometry (GNSS-IR) is a technique exploiting the interference pattern between the direct and reflected signals to measure environmental variables, such as snow depth, water level changes changes, and surface soil moisture content (Larson, 2019). GNSS-IR can be used to measure ground surface elevation changes in the permafrost areas to study frozen ground dynamics. 
 
-GNSS-IR can be used to measure ground surface elevation changes in snow-free seasons to study the changes in permafrost areas. Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost usually exists in polar and alpine regions due to cold climate. It is underlain nearly 24% of the land area in Northern Hemisphere. Changes of permafrost and active layer have crucial impact on hydrological, geomorphological, and ecological processes.
-
-More than 200 GNSS stations are continously operating in the permafrost areas in Northern Hemisphere. Identifying the usable sites for GNSS-IR studies from the existing ones are significantly meaningful. 
-
-We have identified multiple GNSS stations, which are located in permafrost areas and usable for GNSS-IR studies. And the GNSS observation files are available for public. 
+Nearly 200 open-data GNSS stations are continously operating in the permafrost areas in Northern Hemisphere. From them, we identify 23 suitable sites for using GNSS-IR to measure surface elevation changes to study frozen ground. Go to [Sites](src="{{ site.url }}{{ site.baseurl }}/sites") to see the details. 
 
 
 <!--
@@ -64,7 +61,11 @@ We have identified multiple GNSS stations, which are located in permafrost areas
 </div>
 -->
 
+<!--
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/gpsir.png" width="50%">
 </figure>
+-->
+
+
 
