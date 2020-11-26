@@ -5,12 +5,6 @@ sitemap: false
 permalink: /site_alrt
 ---
 
-<div id="basic-info" class="row">
-    <div class="col-sm-4"> first column </div>
-    <div class="col-sm-4"> second column </div>
-    <div class="col-sm-4"> third column </div>
-</div>
-
 # Alert
 ## Site information
 **Name**:                   Alert, Nunavut, Canada <br/>
@@ -31,7 +25,7 @@ permalink: /site_alrt
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="200px">
 </div>
 
-<div class="col-sm-8">
+<div markdown="0" class="col-sm-8">
     ## division for site information
     site information 
     ### geological condition
