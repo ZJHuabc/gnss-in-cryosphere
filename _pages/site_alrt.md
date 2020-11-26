@@ -6,6 +6,11 @@ permalink: /site_alrt
 ---
 
 # Alert
+
+<div markdown="0" class="col-sm-4" style="float">
+    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
+</div>
+
 ## Site information
 **Name**:                   Alert, Nunavut, Canada <br/>
 **Location**:               82.494, -62.340 <br/>
@@ -20,13 +25,3 @@ permalink: /site_alrt
 **Elevation angle**:        8–20 deg <br/>
 **Azimuth angle**:          250–360 deg <br/>
 
-
-<div markdown="0" class="col-sm-4">
-    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="200px">
-</div>
-
-<div markdown="0" class="col-sm-8">
-    ## division for site information
-    site information 
-    ### geological condition
-</div>
