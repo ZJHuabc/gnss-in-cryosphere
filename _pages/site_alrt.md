@@ -20,6 +20,8 @@ permalink: /site_alrt
 **CALM site nearby**:       Yes, <br/>
 **Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
 
+<div></div>
+
 ## Quality control parameters for GNSS-IR
 **GNSS signal**:            GPS L1 C/A <br/>
 **Elevation angle**:        8–20 deg <br/>
