@@ -11,7 +11,7 @@ permalink: /site_alrt
     <div class="col-sm-4"> third column </div>
 </div>
 
-# site information
+# Site information
 **Name**:                   Alert, Nunavut, Canada <br/>
 **Location**:               82.494, -62.340 <br/>
 **Biome**:                  Polar desert <br/>
