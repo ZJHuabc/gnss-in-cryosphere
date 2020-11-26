@@ -20,13 +20,14 @@ permalink: /site_alrt
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px" border="4">
 </div>
 
+<iframe width="450px" height="300px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>
+
+<!--
 <div markdown="0" id="ffz-map">
     <img src="{{ site.url }}{{ site.baseurl }}/ffz/alrt.jpg" width="450" height="300px" border="4">
 </div>
-
-<!-- 
-<iframe width="300px" height="300px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>
 -->
+
 
 ## Quality control parameters for GNSS-IR
 **GNSS signal**:            GPS L1 C/A <br/>
