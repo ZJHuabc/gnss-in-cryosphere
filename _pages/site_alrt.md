@@ -29,18 +29,21 @@ permalink: /site_alrt
 -->
 
 
-## Quality control parameters for GNSS-IR
+## GNSS-IR measurements
+### Quality control parameters
 **GNSS signal**:            GPS L1 C/A <br/>
 **Elevation angle**:        8–20 deg <br/>
 **Azimuth angle**:          250–360 deg <br/>
 
-Using the SNR observations within the determined azimuth mask to calculate the reflector heights and surface elevation changes.  
+### reflector heights
 Reflector heights during 2012–2018  
 
+### surface elevation changes
 Surface elevation changes in thaw seasons during 2012–2020  
 
 Notes:
 1. MAAT: mean annual air temperature
+2. Taylor, A., Brown, R. J. E., Pilon, J., and Judge, A. S.: Permafrost and the shallow thermal regime at Alert, N.W.T, in: Proceedings of the Fourth Canadian permafrost conference, 12–22, 1982.
 
 
 
