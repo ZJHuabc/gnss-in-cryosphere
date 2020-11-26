@@ -7,11 +7,6 @@ permalink: /site_alrt
 
 # Alert, Nunavut, Canada
 
-<!-- site basic information -->
-<div markdown="0" id="photo" class="col-sm-4">
-    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
-</div>
-
 ## Basic information
 **GNSS station ID**:        [ALRT](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001)            
 **Location**:               82.494, -62.340 <br/>
@@ -21,12 +16,15 @@ permalink: /site_alrt
 **CALM site nearby**:       Yes, <br/>
 **Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
 
+<div markdown="0" id="photo" class="col-sm-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
+</div>
 
-
-<!-- GNSS-IR parameters -->
 <div markdown="0" id="ffz-map">
     <img src="{{ site.url }}{{ site.baseurl }}/ffz/alrt.jpg" width="450" height="300px">
 </div>
+
+<iframe width="300px" height="300px" frameborder="5" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>
 
 ## Quality control parameters for GNSS-IR
 **GNSS signal**:            GPS L1 C/A <br/>
@@ -34,9 +32,6 @@ permalink: /site_alrt
 **Azimuth angle**:          250–360 deg <br/>
 
 
-
-<!-- GNSS-IR measurements of surface elevation changes -->
-<iframe height="400" width="100%" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>
 
 Notes:
 1. MAAT: mean annual air temperature
