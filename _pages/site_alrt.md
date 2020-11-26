@@ -27,7 +27,7 @@ permalink: /site_alrt
 **Azimuth angle**:          250–360 deg <br/>
 
 
-<div class="col-sm-4">
+<div markdown="0" class="col-sm-4">
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="200px">
 </div>
 
