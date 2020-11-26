@@ -8,7 +8,7 @@ permalink: /site_alrt
 # Alert, Nunavut, Canada
 
 <div markdown="0" id="photo" class="col-sm-4" style="float:left">
-    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
+    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="450px" height="300px">
 </div>
 
 ## Basic information
@@ -28,6 +28,12 @@ permalink: /site_alrt
 **GNSS signal**:            GPS L1 C/A <br/>
 **Elevation angle**:        8–20 deg <br/>
 **Azimuth angle**:          250–360 deg <br/>
+
+
+
+<div markdown="0" id="notes" class="col-sm-12">
+    MAAT: mean annual air temperature
+</div>
 
 
 
