@@ -11,7 +11,7 @@ permalink: /site_alrt
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
 </div>
 
-<div markdown="1" id="information" class="col-sm-8">
+<div markdown="0" id="information" class="col-sm-8">
     ## Basic information
     **Location**:               82.494, -62.340 <br/>
     **Biome**:                  Polar desert <br/>
