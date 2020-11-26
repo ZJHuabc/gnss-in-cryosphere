@@ -5,8 +5,7 @@ sitemap: false
 permalink: /site_alrt
 ---
 
-# Alert, Nunavut, Canada
-
+# ALRT @ Alert, Nunavut, Canada
 
 <div markdown="0" id="photo" class="col-sm-4" style="float:left">
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
