@@ -7,7 +7,7 @@ permalink: /site_alrt
 
 # Alert, Nunavut, Canada
 
-<div markdown="0" id="photo" class="col-sm-4" style="float:left">
+<div markdown="0" id="photo" class="col-sm-4">
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="450px" height="300px">
 </div>
 
