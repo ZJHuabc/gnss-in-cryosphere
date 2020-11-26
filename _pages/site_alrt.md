@@ -7,6 +7,7 @@ permalink: /site_alrt
 
 # Alert, Nunavut, Canada
 
+<!-- site basic information -->
 <div markdown="0" id="photo" class="col-sm-4">
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
 </div>
@@ -22,6 +23,7 @@ permalink: /site_alrt
 
 
 
+<!-- GNSS-IR parameters -->
 <div markdown="0" id="ffz-map">
     <img src="{{ site.url }}{{ site.baseurl }}/ffz/alrt.jpg" width="450" height="300px">
 </div>
@@ -33,9 +35,12 @@ permalink: /site_alrt
 
 
 
-<div markdown="0" id="notes" class="col-sm-12">
-    MAAT: mean annual air temperature
-</div>
+<!-- GNSS-IR measurements of surface elevation changes -->
+
+
+Notes:
+1. MAAT: mean annual air temperature
+
 
 
 
