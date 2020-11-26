@@ -11,7 +11,8 @@ permalink: /site_alrt
     <div class="col-sm-4"> third column </div>
 </div>
 
-# Site information
+# Alert
+## Site information
 **Name**:                   Alert, Nunavut, Canada <br/>
 **Location**:               82.494, -62.340 <br/>
 **Biome**:                  Polar desert <br/>
@@ -20,7 +21,7 @@ permalink: /site_alrt
 **CALM site nearby**:       Yes, <br/>
 **Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
 
-# Quality control parameters for GNSS-IR
+## Quality control parameters for GNSS-IR
 **GNSS signal**:            GPS L1 C/A
 **Elevation angle**:        8–20 deg
 **Azimuth angle**:          250–360 deg
