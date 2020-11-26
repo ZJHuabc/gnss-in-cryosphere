@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add Map</title>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD10Fid-ovVypHgfvy9OqRDNz65arl-lP8&callback=initMap&libraries=&v=weekly"
+      defer
+    ></script>
+    <style type="text/css">
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 300px;
+        /* The height is 300 pixels */
+        width: 100%;
+        /* The width is the width of the web page */
+      }
+    </style>
+    <script>
+      // Initialize and add the map
+      function initMap() {
+
+        const alrt = { lat: 82.4943, lng: -62.3405 };
+
+        // The map, centered at cetr
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 10,
+          center: alrt,
+        });
+
+        // create markers
+        const mk_alrt = new google.maps.Marker({
+          position: alrt,
+          map: map,
+          title: "alrt",
+        });
+          
+      }
+    </script>
+  </head>
+  <body>
+    <!-- <h3>My Google Maps Demo</h3> -->
+    <!--The div element for the map -->
+    <div id="map"></div>
+  </body>
+</html>
