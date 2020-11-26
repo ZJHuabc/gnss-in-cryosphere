@@ -17,7 +17,7 @@ permalink: /site_alrt
 **Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
 
 <div markdown="0" id="photo" class="col-sm-4">
-    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="350px" border="4">
+    <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="350px" border="0">
 </div>  
 
 <iframe width="450px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html" display="block"></iframe>  
