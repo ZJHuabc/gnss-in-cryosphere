@@ -5,14 +5,13 @@ sitemap: false
 permalink: /site_alrt
 ---
 
-# Alert
+# Alert, Nunavut, Canada
 
 <div markdown="0" class="col-sm-4" style="float">
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
 </div>
 
-## Site information
-**Name**:                   Alert, Nunavut, Canada <br/>
+## Basic information
 **Location**:               82.494, -62.340 <br/>
 **Biome**:                  Polar desert <br/>
 **MAAT**:                   -18 deg <br/>
