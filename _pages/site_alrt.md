@@ -20,7 +20,7 @@ permalink: /site_alrt
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="350px" border="4">
 </div>  
 
-<iframe width="450px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
+<iframe width="450px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html" display="block"></iframe>  
 
 <!--
 <div markdown="0" id="ffz-map">
