@@ -20,8 +20,8 @@ permalink: /site_alrt
 **CALM site nearby**:       Yes, <br/>
 **Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
 
-<div class="col-sm-12">
-
+<div markdown="0" id="ffz-map" class="col-sm-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/ffz/alrt.jpg" width="100%" height="300px">
 </div>
 
 ## Quality control parameters for GNSS-IR
