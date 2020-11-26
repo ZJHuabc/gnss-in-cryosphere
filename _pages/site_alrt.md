@@ -7,17 +7,20 @@ permalink: /site_alrt
 
 # Alert, Nunavut, Canada
 
-<div markdown="0" class="col-sm-4" style="float">
+
+<div markdown="0" id="photo" class="col-sm-4" style="float:left">
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="300px">
 </div>
 
-## Basic information
-**Location**:               82.494, -62.340 <br/>
-**Biome**:                  Polar desert <br/>
-**MAAT**:                   -18 deg <br/>
-**Permafrost zonation**:    continuous <br/>
-**CALM site nearby**:       Yes, <br/>
-**Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
+<div markdown="1" id="information" class="col-sm-8">
+    ## Basic information
+    **Location**:               82.494, -62.340 <br/>
+    **Biome**:                  Polar desert <br/>
+    **MAAT**:                   -18 deg <br/>
+    **Permafrost zonation**:    continuous <br/>
+    **CALM site nearby**:       Yes, <br/>
+    **Landcover**:              Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) <br/>
+</div>
 
 ## Quality control parameters for GNSS-IR
 **GNSS signal**:            GPS L1 C/A <br/>
