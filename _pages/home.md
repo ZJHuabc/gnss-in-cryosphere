@@ -11,6 +11,7 @@ GNSS interferometric reflectometry (GNSS-IR) is a technique exploiting the inter
 
 Nearly 200 open-data GNSS stations are continously operating in the permafrost areas in Northern Hemisphere. From them, we identify 23 suitable sites for using GNSS-IR to measure surface elevation changes to study frozen ground. Go to [Sites](./sites) to see the details. 
 
+<iframe height="400" width="100%" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/sites_map.html"></iframe>
 
 <!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
