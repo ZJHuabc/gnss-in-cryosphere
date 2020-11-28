@@ -16,7 +16,7 @@ permalink: /site_alrt
     </div>
     -->
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
-    <p>
+    <p style="float:right">
     <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
     <b>Location</b>:                82.494, -62.340<br/>
     <b>Biome</b>:                   Polar desert<br/>
