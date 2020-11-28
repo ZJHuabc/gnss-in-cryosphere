@@ -18,11 +18,8 @@ permalink: /site_alrt
         <p><b>CALM site nearby</b>:        Yes</p>
         <p><b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)</p>
     </div>
-    <div markdown="0" id="geolocation" class="col-sm-4">
+    <div markdown="0" id="geolocation" class="col-sm-6">
         <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
-    </div>
-    <div markdown="0" id="photo" class="col-sm-4">
-        <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="350px" border="0">
     </div>
 </div>
 
