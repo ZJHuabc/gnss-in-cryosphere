@@ -15,10 +15,10 @@ permalink: /site_alrt
         <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
     -->
-    <p style="float: left">
+    <p>
         <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
     </p>
-    <p style="float: right" width="300px">
+    <p>
         <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
         <b>Location</b>:                82.494, -62.340<br/>
         <b>Biome</b>:                   Polar desert<br/>
@@ -28,7 +28,6 @@ permalink: /site_alrt
         rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) 
     </p>
 </div>
-
 
 <br/>
 <br/>
