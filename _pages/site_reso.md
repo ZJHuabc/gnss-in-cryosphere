@@ -44,7 +44,7 @@ permalink: /site_reso
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/reso_plot.html"></iframe>
 
 ### Reflector heights  
-Download the [data](../gnssir/reso.csv) 
+Download the [reso.csv](../gnssir/reso.csv) 
 
 <br/>
 <br/>
