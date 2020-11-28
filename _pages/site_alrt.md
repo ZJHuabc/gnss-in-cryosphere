@@ -9,13 +9,15 @@ permalink: /site_alrt
 
 ## Basic information
 <div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="info" class="col-sm-4" height="350px" display="table-cell" vertical-align="middle">
-        <p><b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a></p>            
-        <p><b>Location</b>:                82.494, -62.340</p>
-        <p><b>Biome</b>:                   Polar desert</p>
-        <p><b>Permafrost zonation</b>:     continuous</p>
-        <p><b>CALM site nearby</b>:        Yes</p>
-        <p><b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)</p>
+    <div markdown="0" id="info" class="col-sm-4" height="350px" display="flex" vertical-align="middle" margin="0">
+        <p>
+        <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
+        <b>Location</b>:                82.494, -62.340<br/>
+        <b>Biome</b>:                   Polar desert<br/>
+        <b>Permafrost zonation</b>:     continuous<br/>
+        <b>CALM site nearby</b>:        Yes<br/>
+        <b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)
+        </p>
     </div>
     <!--
     <div markdown="0" id="geolocation" class="col-sm-6">
@@ -27,6 +29,7 @@ permalink: /site_alrt
     </div>
 </div>
 
+yy
 <br/>
 <br/>
 
