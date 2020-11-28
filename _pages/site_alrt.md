@@ -9,7 +9,7 @@ permalink: /site_alrt
 
 ## Basic information
 <div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="info" class="col-sm-4" height="350px">
+    <div markdown="0" id="info" class="col-sm-4" height="350px" margin-top="25px" magin-bottom="25px">
         <p><b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a></p>            
         <p><b>Location</b>:                82.494, -62.340</p>
         <p><b>Biome</b>:                   Polar desert</p>
@@ -17,15 +17,14 @@ permalink: /site_alrt
         <p><b>CALM site nearby</b>:        Yes</p>
         <p><b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)</p>
     </div>
-    <div markdown="0" id="photo" class="col-sm-4">
+    <div markdown="0" id="photo" class="col-sm-4" margin-top="25px" magin-bottom="25px">
         <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="350px" border="0">
     </div>
-    <div markdown="0" id="geolocation" class="col-sm-4">
-        <iframe width="450px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
+    <div markdown="0" id="geolocation" class="col-sm-4" margin-top="25px" magin-bottom="25px">
+        <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
 </div>
 
-ß
 ## GNSS-IR measurements  
 
 ### Key parameters for GNSS-IR
@@ -33,10 +32,10 @@ permalink: /site_alrt
 **Elevation angle**:        8–20 deg <br/>
 **Azimuth angle**:          250–360 deg <br/>
 
-### surface elevation changes
+### Surface elevation changes in thaw seasons
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/alrt_plot.html"></iframe>
 
-### reflector heights  
+### Reflector heights  
 download the data 
 
 <br/>
