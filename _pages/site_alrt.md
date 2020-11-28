@@ -44,7 +44,7 @@ permalink: /site_alrt
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/alrt_plot.html"></iframe>
 
 ### Reflector heights  
-Download the [data](../gnssir/alrt.csv) 
+Download the [alrt.csv](../gnssir/alrt.csv) 
 
 <br/>
 <br/>
