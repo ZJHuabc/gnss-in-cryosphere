@@ -9,8 +9,7 @@ permalink: /site_alrt
 
 ## Basic information
 <div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="info" class="col-sm-4" height="350px">
-        <br><br/>
+    <div markdown="0" id="info" class="col-sm-4" height="350px" align-content="center">
         <p><b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a></p>            
         <p><b>Location</b>:                82.494, -62.340</p>
         <p><b>Biome</b>:                   Polar desert</p>
