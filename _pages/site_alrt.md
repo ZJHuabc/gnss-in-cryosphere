@@ -8,14 +8,16 @@ permalink: /site_alrt
 # Alert, Nunavut, Canada
 
 ## Basic information
-<div markdown="0" id="information" class="col-sm-12" height="350px" width="100%">
+<div markdown="0" id="information" class="row">
     <!--
     <div markdown="0" id="geolocation" class="col-sm-6">
         <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
     -->
-    <div markdown="0" id="photo" class="col-sm-8">
-        <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
+    <div markdown="0" class="col-sm-8">
+        <p>
+            <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
+        </p>
         <p>
         <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
         <b>Location</b>:                82.494, -62.340<br/>
