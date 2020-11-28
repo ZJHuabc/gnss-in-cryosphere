@@ -9,7 +9,7 @@ permalink: /site_alrt
 
 ## Basic information
 <div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="info" class="col-sm-4" height="350px" display="flex" vertical-align="middle" margin="0">
+    <div markdown="0" id="info" class="col-sm-4" height="350px" display="table-cell" vertical-align="middle" margin="auto">
         <p>
         <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
         <b>Location</b>:                82.494, -62.340<br/>
@@ -29,7 +29,7 @@ permalink: /site_alrt
     </div>
 </div>
 
-yy
+yyy
 <br/>
 <br/>
 
