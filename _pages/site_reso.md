@@ -32,13 +32,17 @@ permalink: /site_reso
 <br/>
 
 
-## GNSS-IR measurements  
+## GNSS-IR measurements
 
-### Key parameters for GNSS-IR
-**GNSS signal**:            GPS L1 C/A <br/>
-**Elevation angle**:        5–20 deg <br/>
-**Azimuth angle**:          0–90 deg <br/>
-**Monument type**:          Steel pipe
+<div markdown="0" id="parameter" class="col-sm-12">
+    <h3>Key parameters for GNSS-IR</h3>
+    <p>
+    <b>GNSS signal</b>:            GPS L1 C/A <br/>
+    <b>Elevation angle</b>:        5–20 deg <br/>
+    <b>Azimuth angle</b>:          0–90 deg <br/>
+    <b>Monument type</b>:          Steel pipe
+    </p>
+</div>
 
 ### Surface elevation changes in thaw seasons
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/reso_plot.html"></iframe>
