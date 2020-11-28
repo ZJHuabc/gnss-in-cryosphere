@@ -24,7 +24,9 @@ permalink: /site_alrt
         <b>Biome</b>:                   Polar desert<br/>
         <b>Permafrost zonation</b>:     continuous<br/>
         <b>CALM site nearby</b>:        Yes<br/>
-        <b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)
+        <!-- 
+        <b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982) 
+        -->
         </p>
     </div>
 </div>
