@@ -24,7 +24,7 @@ permalink: /site_reso
         <b>Landcover</b>:               Rounded or sub-angular gravels and shelly and fine-grained sands (Cruishank, 1971)
     </p>
     <p>
-        <img src="{{ site.url }}{{ site.baseurl }}/photos/reso.jpg" width="250px" height="350px" border="0">
+        <img src="{{ site.url }}{{ site.baseurl }}/photos/reso.jpg" width="350px" height="250px" border="0">
     </p>
 </div>
 
@@ -37,7 +37,7 @@ permalink: /site_reso
 ### Key parameters for GNSS-IR
 **GNSS signal**:            GPS L1 C/A <br/>
 **Elevation angle**:        5–20 deg <br/>
-**Azimuth angle**:          0–360 deg <br/>
+**Azimuth angle**:          0–90 deg <br/>
 **Monument type**:          Steel pipe
 
 ### Surface elevation changes in thaw seasons
