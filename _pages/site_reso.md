@@ -28,6 +28,7 @@ permalink: /site_reso
     </p>
 </div>
 
+
 <br/>
 <br/>
 
@@ -42,16 +43,18 @@ permalink: /site_reso
     <b>Azimuth angle</b>:          0–90 deg <br/>
     <b>Monument type</b>:          Steel pipe
     </p>
+    <br/>
+    <h3>Surface elevation changes in thaw seasons</h3>
+    <iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/reso_plot.html"></iframe>
+    <br/>
+    <h3>Reflector heights</h3>
+    Download the <a href="{{ site.url }}{{ site.baseurl }}/gnssir/reso.csv">reso.csv</a>
 </div>
 
-### Surface elevation changes in thaw seasons
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/reso_plot.html"></iframe>
-
-### Reflector heights  
-Download the [reso.csv](../gnssir/reso.csv) 
 
 <br/>
 <br/>
+
 
 Notes:
 1. MAAT: mean annual air temperature
