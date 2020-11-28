@@ -70,8 +70,13 @@ SCBY, Kap Schoubye, GNET
 
 
 Notes:
-[CACS](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/cacs-scca.php?locale=en): Canadian Active Control Network
-[CHAIN](http://chain.physics.unb.ca/chain/): Canadian High Arctic Ionospheric Network
-[IGS](http://www.igs.org/network): International GNSS Service
+
+[CACS](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/cacs-scca.php?locale=en): Canadian Active Control Network  
+
+[CHAIN](http://chain.physics.unb.ca/chain/): Canadian High Arctic Ionospheric Network  
+
+[IGS](http://www.igs.org/network): International GNSS Service  
+
 [PBO](https://www.unavco.org/projects/major-projects/nota/nota.html): Plate Boundary Observatory
-[GNET](http://go-gnet.org): Greenland Network
+  
+[GNET](http://go-gnet.org): Greenland Network  
