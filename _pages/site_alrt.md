@@ -8,13 +8,13 @@ permalink: /site_alrt
 # Alert, Nunavut, Canada
 
 ## Basic information
-<div markdown="0" id="information" class="row">
+<div markdown="0" id="information" class="col-sm-12">
     <!--
     <div markdown="0" id="geolocation" class="col-sm-6">
         <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
     -->
-    <div markdown="0" class="col-sm-8">
+    <div markdown="0" class="row">
         <p>
             <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
         </p>
