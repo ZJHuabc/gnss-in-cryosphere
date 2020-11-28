@@ -8,16 +8,14 @@ permalink: /site_alrt
 # Alert, Nunavut, Canada
 
 ## Basic information
-<div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="info" class="col-sm-4" height="350px" display="table-cell" vertical-align="middle" margin="auto">
-        <p>
+<div markdown="0" id="information" class="col-sm-12" height="350px" width="100%">
+    <div markdown="0" id="info" class="col-sm-4" height="350px">
         <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
         <b>Location</b>:                82.494, -62.340<br/>
         <b>Biome</b>:                   Polar desert<br/>
         <b>Permafrost zonation</b>:     continuous<br/>
         <b>CALM site nearby</b>:        Yes<br/>
         <b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)
-        </p>
     </div>
     <!--
     <div markdown="0" id="geolocation" class="col-sm-6">
@@ -29,7 +27,6 @@ permalink: /site_alrt
     </div>
 </div>
 
-yyy
 <br/>
 <br/>
 
