@@ -9,7 +9,7 @@ permalink: /site_alrt
 
 ## Basic information
 <div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="geolocation" class="col-sm-4">
+    <div markdown="0" id="geolocation" class="col-sm-4" float="left">
         <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
     <div markdown="0" id="info" class="col-sm-4" height="350px">
