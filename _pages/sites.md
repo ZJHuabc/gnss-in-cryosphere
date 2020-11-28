@@ -13,75 +13,65 @@ permalink: /sites
 
 ## Canada
 
-### [CACS network](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/cacs-scca.php?locale=en)
+[ALRT](site_alrt.md), Alert, CACS
 
-[ALRT](site_alrt.md), Alert
+RESO, Resolute Bay, CACS
 
-RESO, Resolute Bay
+BAKE, Baker Lake, CACS
 
-BAKE, Baker Lake
+REPL, Repulse Bay, CACS
 
-REPL, Repulse Bay
+IQAL, Iqaluit, CACS
 
-IQAL, Iqaluit
+IQAC, Iqaluit, CHAIN
 
-### [CHAIN](http://chain.physics.unb.ca/chain/)
+PONC, Pond Inlet, CHAIN
 
-IQAC, Iqaluit
+RANC, Rankin Inlet, CHAIN
 
-PONC, Pond Inlet
+FSIC, Fort Simpson, CHAIN
 
-RANC, Rankin Inlet
+SANC, Sanikiluaq, CHAIN
 
-FSIC, Fort Simpson
+FSMC, Fort Simth, CHAIN
 
-SANC, Sanikiluaq
-
-FSMC, Fort Simth
-
-### [IGS](http://www.igs.org/network)
-
-SACH, Sachs Harbour
+SACH, Sachs Harbour, IGS
 
 
 ## Alaska, US
 
-### [PBO/NOTA](https://www.unavco.org/projects/major-projects/nota/nota.html)
+AB39, Fort Yukon, PBO
 
-AB39, Fort Yukon
+AC07, Buckland, PBO
 
-AC78, Northway
+AC78, Northway, PBO
 
-AC71, Delta Junction
+AC71, Delta Junction, PBO
 
-WIKR, Kantishna
+SG27, Utqiagvik, PBO
 
-SG27, Utqiagvik
+UTQI, Utqiagvik, IGS
 
-AC07, Buckland
+WIKR, Kantishna, PBO
 
-### [IGS](http://www.igs.org/network)
-
-UTQI, Utqiagvik
 
 ## Sweden
 
-### [IGS](http://www.igs.org/network)
-
-KIRU, Kiruna
+KIRU, Kiruna, IGS
 
 
 ## Greenland, Danmark
 
-### [GNET](http://go-gnet.org)
+JGBL, Jorgen Bronlund, GNET
 
-JGBL, Jorgen Bronlund
+KMJP, Kap Morris Jessup, GNET
 
-KMJP, Kap Morris Jessup
-
-SCBY, Kap Schoubye
+SCBY, Kap Schoubye, GNET
 
 
-<div style="width:100%; height:400px; border:none; text-align:center">
-
-</div>
+Notes:
+[CACS](https://webapp.geod.nrcan.gc.ca/geod/data-donnees/cacs-scca.php?locale=en): Canadian Active Control Network
+[CHAIN](http://chain.physics.unb.ca/chain/): Canadian High Arctic Ionospheric Network
+[IGS](http://www.igs.org/network): International GNSS Service
+[PBO](https://www.unavco.org/projects/major-projects/nota/nota.html): Plate Boundary Observatory
+[GNET](http://go-gnet.org): Greenland Network
