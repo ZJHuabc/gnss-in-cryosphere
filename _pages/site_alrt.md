@@ -35,16 +35,21 @@ permalink: /site_alrt
 
 ## GNSS-IR measurements  
 
-### Key parameters for GNSS-IR
-**GNSS signal**:            GPS L1 C/A <br/>
-**Elevation angle**:        8–20 deg <br/>
-**Azimuth angle**:          250–360 deg <br/>
-
-### Surface elevation changes in thaw seasons
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/alrt_plot.html"></iframe>
-
-### Reflector heights  
-Download the [alrt.csv](../gnssir/alrt.csv) 
+<div markdown="0" id="parameter" class="col-sm-12">
+    <h3>Key parameters for GNSS-IR</h3>
+    <p>
+    <b>GNSS signal</b>:            GPS L1 C/A <br/>
+    <b>Elevation angle</b>:        8–20 deg <br/>
+    <b>Azimuth angle</b>:          250–360 deg <br/>
+    <b>Monument type</b>:          Galvanized steel pipe
+    </p>
+    <br/>
+    <h3>Surface elevation changes in thaw seasons</h3>
+    <iframe width="900" height="800" frameborder="0" scrolling="no" src="{{ site.url }}{{ site.baseurl }}/gnssir/alrt_plot.html"></iframe>
+    <br/>
+    <h3>Reflector heights</h3>
+    Download the <a href="{{ site.url }}{{ site.baseurl }}/gnssir/alrt.csv">alrt.csv</a>
+</div>
 
 <br/>
 <br/>
