@@ -15,7 +15,7 @@ permalink: /sites
 
 [ALRT](site_alrt.md), Alert, CACS
 
-RESO, Resolute Bay, CACS
+[RESO](site_reso.md), Resolute Bay, CACS
 
 BAKE, Baker Lake, CACS
 
