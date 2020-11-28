@@ -15,9 +15,9 @@ permalink: /site_alrt
         <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
     -->
-    <p>
     <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
-    <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a>            
+    <p>
+    <b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a><br/>            
     <b>Location</b>:                82.494, -62.340<br/>
     <b>Biome</b>:                   Polar desert<br/>
     <b>Permafrost zonation</b>:     continuous<br/>
