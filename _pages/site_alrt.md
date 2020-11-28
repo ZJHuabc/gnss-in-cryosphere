@@ -26,7 +26,7 @@ permalink: /site_alrt
         <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="250px" height="350px" border="0">
     </div>
 </div>
-
+yyyyy
 <br/>
 <br/>
 
