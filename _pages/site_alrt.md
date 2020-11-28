@@ -9,9 +9,6 @@ permalink: /site_alrt
 
 ## Basic information
 <div markdown="0" id="information" class="col-sm-12">
-    <div markdown="0" id="geolocation" class="col-sm-4" float="left">
-        <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
-    </div>
     <div markdown="0" id="info" class="col-sm-4" height="350px">
         <br><br/>
         <p><b>GNSS station ID</b>:         <a href="https://webapp.geod.nrcan.gc.ca/geod/data-donnees/station/report-rapport.php?id=M029001">ALRT</a></p>            
@@ -20,6 +17,9 @@ permalink: /site_alrt
         <p><b>Permafrost zonation</b>:     continuous</p>
         <p><b>CALM site nearby</b>:        Yes</p>
         <p><b>Landcover</b>:               Mainly silts, sands, and shattered rocks filled with ice, ranging from 2.4 to 4 m thick (Taylor et al., 1982)</p>
+    </div>
+    <div markdown="0" id="geolocation" class="col-sm-4">
+        <iframe width="350px" height="350px" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/alrt.html"></iframe>  
     </div>
     <div markdown="0" id="photo" class="col-sm-4">
         <img src="{{ site.url }}{{ site.baseurl }}/photos/alrt.jpg" width="100%" height="350px" border="0">
