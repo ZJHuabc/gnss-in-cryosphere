@@ -21,7 +21,7 @@ Nearly 200 open-data GNSS stations are continously operating in the permafrost a
 
 <br/>
 
-<iframe height="620px" width="100%" frameborder="0" src="{{ site.url }}{{ site.baseurl }}/maps/sites_map.html"></iframe>
+<iframe height="600px" width="100%" src="{{ site.url }}{{ site.baseurl }}/maps/sites_map.html"></iframe>
 
 <br/>
 
