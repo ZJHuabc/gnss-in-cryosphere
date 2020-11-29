@@ -43,6 +43,10 @@ permalink: /cv/
         <p>
             <img src="{{ site.url }}{{ site.baseurl }}/images/award/ISGNSS_award.jpg" width="100%">
         </p>
+        <h2>Publications</h2>
+        <p>
+            See the by <a href="{{ site.url }}{{ site.baseurl }}/publications">publication list</a>.
+        </p>
     </div>
 </div>
 
