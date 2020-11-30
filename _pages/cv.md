@@ -17,7 +17,7 @@ permalink: /cv/
         <p>
             <b>The Chinese University of Hong Kong</b>, 2017–Present
             <br/>
-            <i>Earth and Atmospheric Sciences, Ph.D. student</i>
+            <i>Earth System Science Programme, Ph.D. student</i>
         </p>
         <p>
             <b>Wuhan University</b>, 2014–2017
