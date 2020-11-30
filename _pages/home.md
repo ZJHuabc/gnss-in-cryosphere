@@ -79,7 +79,7 @@ Nearly 200 open-data GNSS stations are continously operating in the permafrost a
 <br/>
 <br/>
 
-
+References:<br/>
 Larson, K. M. (2019). Unanticipated Uses of the Global Positioning System. Annual Review of Earth and Planetary Sciences, 47(1), 19–40. https://doi.org/10.1146/annurev-earth-053018-060203 
 <br/>
 Zhang, T., Barry, R. G., Knowles, K., Ling, F., & Armstrong, R. L. (2003). Distribution of seasonally and perennially frozen ground in the Northern Hemisphere. In Proceedings of the 8th International Conference on Permafrost (pp. 1289–1294).
