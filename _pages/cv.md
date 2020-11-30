@@ -46,7 +46,7 @@ permalink: /cv/
         </p>
         <h2>Publications</h2>
         <p>
-            See the by <a href="{{ site.url }}{{ site.baseurl }}/publications">publication list</a>.
+            See the <a href="{{ site.url }}{{ site.baseurl }}/publications">publication list</a>.
         </p>
     </div>
 </div>
