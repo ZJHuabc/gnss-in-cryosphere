@@ -17,7 +17,7 @@ permalink: /sites
 
 [RESO](site_reso.md), Resolute Bay, CACS
 
-BAKE, Baker Lake, CACS
+[BAKE](site_bake.md), Baker Lake, CACS
 
 REPL, Repulse Bay, CACS
 
