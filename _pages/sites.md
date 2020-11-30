@@ -19,7 +19,7 @@ permalink: /sites
 
 [BAKE](site_bake.md), Baker Lake, CACS
 
-REPL, Repulse Bay, CACS
+[REPL](site_repl.md), Repulse Bay, CACS
 
 IQAL, Iqaluit, CACS
 
