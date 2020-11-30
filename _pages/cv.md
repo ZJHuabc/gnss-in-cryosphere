@@ -9,6 +9,7 @@ permalink: /cv/
 <div markdown="0" id="cv" class="col-sm-12">
     <h1>Jiahua Zhang</h1>
     <div markdown="0" id="self-photo" class="col-sm-4">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jiahua1" width="90%">
     </div>
     <div markdown="0" id="cv-content" class="col-sm-8">
         <h2>Education</h2>
