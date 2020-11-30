@@ -5,7 +5,7 @@ sitemap: false
 permalink: /site_reso
 ---
 
-# Alert, Nunavut, Canada
+# Resolute Bay, Nunavut, Canada
 
 ## Basic information
 
