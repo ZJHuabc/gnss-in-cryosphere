@@ -21,7 +21,7 @@ permalink: /sites
 
 [REPL](site_repl.md), Repulse Bay, CACS
 
-IQAL, Iqaluit, CACS
+[IQAL](site_iqal.md), Iqaluit, CACS
 
 IQAC, Iqaluit, CHAIN
 
