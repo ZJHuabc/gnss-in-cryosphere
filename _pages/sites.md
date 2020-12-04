@@ -23,7 +23,7 @@ permalink: /sites
 
 [IQAL](site_iqal.md), Iqaluit, CACS
 
-IQAC, Iqaluit, CHAIN
+[IQAC](site_iqac.md), Iqaluit, CHAIN
 
 PONC, Pond Inlet, CHAIN
 
