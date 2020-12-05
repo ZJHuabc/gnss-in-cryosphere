@@ -33,7 +33,7 @@ permalink: /sites
 
 SANC, Sanikiluaq, CHAIN
 
-FSMC, Fort Simth, CHAIN
+[FSMC](site_fsmc.md), Fort Simth, CHAIN
 
 SACH, Sachs Harbour, IGS
 
