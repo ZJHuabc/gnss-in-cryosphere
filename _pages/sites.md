@@ -50,7 +50,7 @@ AC71, Delta Junction, PBO
 
 [SG27](site_sg27.md), Utqiagvik, PBO
 
-UTQI, Utqiagvik, IGS
+[UTQI](site_utqi.md), Utqiagvik, IGS
 
 WIKR, Kantishna, PBO
 
