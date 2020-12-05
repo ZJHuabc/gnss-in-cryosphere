@@ -48,7 +48,7 @@ AC78, Northway, PBO
 
 AC71, Delta Junction, PBO
 
-SG27, Utqiagvik, PBO
+[SG27](site_sg27.md), Utqiagvik, PBO
 
 UTQI, Utqiagvik, IGS
 
