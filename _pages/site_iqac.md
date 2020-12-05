@@ -5,7 +5,7 @@ sitemap: false
 permalink: /site_iqac
 ---
 
-# iqacuit, Nunavut, Canada
+# iqaluit, Nunavut, Canada
 
 ## Basic information
 
