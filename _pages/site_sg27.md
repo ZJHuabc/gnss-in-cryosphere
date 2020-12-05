@@ -5,7 +5,7 @@ sitemap: false
 permalink: /site_sg27
 ---
 
-# Barrow, Alaska, US
+# Utqiagvik (formerly Barrow), Alaska, US
 
 ## Basic information
 
