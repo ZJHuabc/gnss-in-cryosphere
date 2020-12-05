@@ -25,7 +25,7 @@ permalink: /sites
 
 [IQAC](site_iqac.md), Iqaluit, CHAIN
 
-PONC, Pond Inlet, CHAIN
+[PONC](site_ponc.md), Pond Inlet, CHAIN
 
 RANC, Rankin Inlet, CHAIN
 
