@@ -24,7 +24,7 @@ permalink: /site_sg27
         <b>Landcover</b>:               Organic top layer underlain by silt
     </p>
     <p>
-        <img src="{{ site.url }}{{ site.baseurl }}/photos/sg27.png" width="350px" height="250px" border="0">
+        <img src="{{ site.url }}{{ site.baseurl }}/photos/sg27_east.jpg" height="250px" border="0">
     </p>
     <br/>
     <br/>
@@ -52,8 +52,6 @@ permalink: /site_sg27
 
 Notes:
 1. MAAT: mean annual air temperature
-2. Throop, J., Smith, S. L., and Lewkowicz, A. G.: Observed recent changes in climate and permafrost temperatures at four sites in northern Canada, 63rd Can. Geotech. Conf. 6th Can. Permafr. Conf., 1265–1272, 2010.
-
 
 
 
