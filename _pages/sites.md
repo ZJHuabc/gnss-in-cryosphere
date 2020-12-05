@@ -27,7 +27,7 @@ permalink: /sites
 
 [PONC](site_ponc.md), Pond Inlet, CHAIN
 
-RANC, Rankin Inlet, CHAIN
+[RANC](site_ranc.md), Rankin Inlet, CHAIN
 
 FSIC, Fort Simpson, CHAIN
 
