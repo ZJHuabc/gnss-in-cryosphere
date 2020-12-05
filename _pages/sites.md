@@ -29,7 +29,7 @@ permalink: /sites
 
 [RANC](site_ranc.md), Rankin Inlet, CHAIN
 
-FSIC, Fort Simpson, CHAIN
+[FSIC](site_fsic.md), Fort Simpson, CHAIN
 
 SANC, Sanikiluaq, CHAIN
 
