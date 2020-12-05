@@ -31,7 +31,7 @@ permalink: /sites
 
 [FSIC](site_fsic.md), Fort Simpson, CHAIN
 
-SANC, Sanikiluaq, CHAIN
+[SANC](site_sanc.md), Sanikiluaq, CHAIN
 
 [FSMC](site_fsmc.md), Fort Simth, CHAIN
 
