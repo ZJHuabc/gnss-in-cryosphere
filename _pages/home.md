@@ -4,10 +4,10 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-<div markdown="0" id="ad" class="col-sm-12" style="background-color:#c25959">
+<div markdown="0" id="ad" class="col-sm-12" style="background-color:#cccccc">
     <br/>
     <p>
-        I am looking for a Postdoc position :)
+        I am looking for a Postdoc position :) If you are interested, please let me know by zhangjiahua@link.cuhk.edu.hk
     </p>
     <br/>
 </div>
