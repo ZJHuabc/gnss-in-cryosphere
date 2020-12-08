@@ -11,9 +11,11 @@ permalink: /cv/
         <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jiahua1.jpeg" width="100%">
     </div>
     <div markdown="0" id="cv-content" class="col-sm-8">
-        <h1>Jiahua Zhang</h1>
+        <h1>Jiahua Zhang (张佳华)</h1>
+        <p>
+            zhangjiahua@link.cuhk.edu.hk
+        </p>
         <h2>Education</h2>
-        <br/>
         <p>
             <b>The Chinese University of Hong Kong</b>, 2017–Present
             <br/>
