@@ -4,13 +4,7 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-<div markdown="0" id="ad" class="col-sm-12" style="background-color:#cccccc">
-    <br/>
-    <p>
-        I am looking for a Postdoc position :) If you are interested, please let me know by zhangjiahua@link.cuhk.edu.hk
-    </p>
-    <br/>
-</div>
+
 # Investigating frozen ground dynamics by using GNSS interferometric reflectometry
 Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost is underlain nearly 24% of the land area in Northern Hemisphere (Zhang et al., 2003). The changes in the active layer and permafrost significantly affect the hydrological, geomorphological, and ecological processes. The ground surface in the permafrost regions is subject to uplift/subsidence seasonally, due to the active layer freezing/thawing. **Surface elevation changes can indicate the thermal and hydrological changes in the frozen ground**. 
 
