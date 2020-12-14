@@ -13,8 +13,11 @@ GNSS interferometric reflectometry (GNSS-IR) is a technique exploiting the inter
 
 <br/>
 <div markdown="0" id="gnssir-schematic" class="col-sm-12">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="70%" style="margin: 0 auto;">
-    <p>The schematic diagrams showing the geometry changes of the GNSS-IR due to the active layer freezing/thawing.</p>
+    <p style="text-align:center">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="65%">
+    </p>
+    <p style="text-align:center">
+        The schematic diagrams showing the geometry changes of the GNSS-IR due to the active layer freezing/thawing.</p>
     <br/>
 </div>
 
