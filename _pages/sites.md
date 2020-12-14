@@ -82,3 +82,7 @@ Notes:
 [PBO](https://www.unavco.org/projects/major-projects/nota/nota.html): Plate Boundary Observatory
   
 [GNET](http://go-gnet.org): Greenland Network  
+
+<br/>
+If you use our data, please use the citation:  
+*Zhang, Jiahua, & Liu, Lin. (2020). Reflector heights in the Arctic permafrost areas measured by GNSS interferometric reflectometry (Version 0.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4319372*
