@@ -6,14 +6,14 @@ permalink: /
 ---
 
 # Investigating frozen ground dynamics by using GNSS interferometric reflectometry
-Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost is underlain nearly 24% of the land area in Northern Hemisphere (Zhang et al., 2003). The changes in the active layer and permafrost significantly affect the hydrological, geomorphological, and ecological processes. The ground surface in the permafrost regions is subject to uplift/subsidence seasonally, due to the active layer freezing/thawing. **Surface elevation changes can indicate the thermal and hydrological changes in the frozen ground**. 
+Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. Permafrost is underlain nearly 24% of the land area in Northern Hemisphere (Zhang et al., 2003). The changes in the active layer and permafrost significantly affect the hydrological, geomorphological, and ecological processes. **The ground surface in the permafrost regions is subject to uplift/subsidence seasonally, due to the active layer freezing/thawing. Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground.** 
 
 
-GNSS interferometric reflectometry (GNSS-IR) is a technique exploiting the interference pattern between the direct and reflected signals to measure environmental variables, such as snow depth, water level changes changes, and surface soil moisture content (Larson, 2019). **GNSS-IR can be used to measure ground surface elevation changes in the permafrost areas to study frozen ground dynamics**. 
+GNSS interferometric reflectometry (GNSS-IR) is a technique exploiting the interference pattern between the direct and reflected signals to measure environmental variables, such as snow depth, water level changes, and surface soil moisture content (Larson, 2019). **GNSS-IR can be used to measure ground surface elevation changes in the permafrost areas to study frozen ground dynamics (Liu and Larson, 2018).** 
 
 <br/>
 <div markdown="0" id="gnssir-schematic" class="col-sm-12">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="60%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="70%" style="margin: 0 auto;">
     <p>The schematic diagrams showing the geometry changes of the GNSS-IR due to the active layer freezing/thawing.</p>
     <br/>
 </div>
