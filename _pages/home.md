@@ -28,7 +28,7 @@ Nearly 200 open-data GNSS stations are continuously operating in the permafrost 
 
 <div markdown="0" id="usable-sites" class="col-sm-12">
     <p style="text-align:center">
-        <img src="{{ site.url }}{{ site.baseurl }}/maps/suitable_gnss_sites.png" width="70%">
+        <img src="{{ site.url }}{{ site.baseurl }}/maps/suitable_gnss_sites.png" width="100%">
     </p>
     <p style="text-align:center">
         The map shows the GNSS sites in the Arctic permafrost areas, which are suitable for GNSS-IR studies.
