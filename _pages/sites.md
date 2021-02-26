@@ -86,4 +86,4 @@ Notes:
 
 <br/>
 If you use this dataset, please use the citation:  
-*Zhang, Jiahua, & Liu, Lin. (2020). Reflector heights in the Arctic permafrost areas measured by GNSS interferometric reflectometry (Version 0.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4319372*
+*Zhang, J., & Liu, L. (2021). Mining noise data for monitoring Arctic permafrost by using GNSS interferometric reflectometry. Polar Science, 100649. https://doi.org/10.1016/j.polar.2021.100649*
