@@ -8,7 +8,7 @@ permalink: /cv/
 
 <div markdown="0" id="cv" class="col-sm-12">
     <div markdown="0" id="self-photo" class="col-sm-4">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jiahua1.jpeg" width="100%">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jiahua2.jpeg" width="100%">
     </div>
     <div markdown="0" id="cv-content" class="col-sm-8">
         <h1>Jiahua Zhang (张佳华)</h1>
