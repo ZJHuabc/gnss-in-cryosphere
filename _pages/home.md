@@ -8,26 +8,24 @@ permalink: /
 # Investigating frozen ground dynamics by using GNSS interferometric reflectometry (GNSS-IR)
 Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. **Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground.** 
 
+<br/>
 
 <img style="float: right" src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="65%">
 GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interference pattern between the direct and reflected signals to measure environmental variables, such as near-surface soil moisture content, snow depth, and water level changes (Larson, 2019). **It can be also used to measure ground surface elevation changes in permafrost areas. (Liu and Larson, 2018)** The left diagram illusrates the changes in GNSS-IR geometry in the active layer freezing/thawing processes. 
 
-
-<!--
-Nearly 200 open-data GNSS stations are continuously operating in the permafrost areas in Northern Hemisphere. From them, we identify 23 suitable sites for using GNSS-IR to measure surface elevation changes to study frozen ground dynamics. The following map shows the distribution of these sites. Go to **[Sites](./sites)** to see the details. 
-
 <br/>
 
-<div markdown="0" id="usable-sites" class="col-sm-12">
+## Suitable GNSS sites in permafrost areas in the Arctic and Qinghai-Tibetan Plateau
+Nearly 200 open-data GNSS stations are continuously operating in the permafrost areas in the Northern Hemisphere. However, not all of them are suitable for GNSS-IR applications, as this technique requires the reflecting surface to be open and relatively horizontal and smooth. From the existing ones, we identified 23 suitable sites in the Arctic permafrost regions for GNSS-IR studies. The following map shows the distribution of these sites. Go to **[Sites](./sites)** to see the details. 
+<div markdown="0" id="usable-sites" class="col-sm-4">
     <p style="text-align:center">
         <img src="{{ site.url }}{{ site.baseurl }}/maps/suitable_gnss_sites.png" width="100%">
     </p>
     <p style="text-align:center">
-        The map shows the GNSS sites in the Arctic permafrost areas, which are suitable for GNSS-IR studies.
+        Locations of the suitable GNSS sites in the Arctic permafrost areas for GNSS-IR studies.
     </p>
     <br/>
 </div>
--->
 
 <!--
 <iframe height="600px" width="100%" src="{{ site.url }}{{ site.baseurl }}/maps/sites_map.html"></iframe>
