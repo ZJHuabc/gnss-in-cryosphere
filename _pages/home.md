@@ -15,7 +15,7 @@ GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interf
 
 <br/>
 
-### Suitable GNSS sites in permafrost areas in the Arctic and Qinghai-Tibetan Plateau
+### Suitable GNSS sites in permafrost areas in the Arctic permafrost areas
 
 <img style="float: right" src="{{ site.url }}{{ site.baseurl }}/maps/perma_usable_gnss_tsp_calm.png" width="65%">
 Nearly 200 open-data GNSS stations are continuously operating in the permafrost areas in the Northern Hemisphere. However, not all of them are suitable for GNSS-IR applications, as this technique requires the reflecting surface to be open and relatively horizontal and smooth. From the existing ones, we identified 23 suitable sites in the Arctic permafrost regions. At these usable sites, azimuth masks with open and relatively flat and horizontal areas can be determined. The suitable sites can fill some spatial gaps of the current permafrost monitoring networks. Their GNSS-IR measurements of surface elevation changes contribute to probing into frozen ground dynamics. The left map shows the distribution of the suitable GNSS sites and the Circumpolar Active Layer Monitoring and Thermal State of Permafrost sites. Go to **[Sites](./sites)** to see the details of the suitable GNSS stations. 
