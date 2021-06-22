@@ -5,21 +5,22 @@ sitemap: false
 permalink: /
 ---
 
-# Investigating frozen ground dynamics by using GNSS interferometric reflectometry
+# Investigating frozen ground dynamics by using GNSS interferometric reflectometry (GNSS-IR)
 Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. **Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground.** 
-
-
-GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interference pattern between the direct and reflected signals to measure environmental variables. **GNSS-IR can be used to measure ground surface elevation changes in permafrost areas.** It can also measure snow depth and surface soil moisture content in the layer of 0-5 cm depth.
 
 <br/>
 <div markdown="0" id="gnssir-schematic" class="col-sm-12">
-    <p style="text-align:center">
+    <div markdown="0" id="self-photo" class="col-sm-4">
+        GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interference pattern between the direct and reflected signals to measure environmental variables. **GNSS-IR can be used to measure ground surface elevation changes in permafrost areas.** It can also measure snow depth and surface soil moisture content in the layer of 0-5 cm depth.
+    </div>
+    <div markdown="0" id="self-photo" class="col-sm-8">
+        <p style="text-align:center">
         <img src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="65%">
-    </p>
-    <p style="text-align:center">
-        Schematic diagrams showing the geometry changes of the GNSS-IR due to active layer freezing/thawing.
-    </p>
-    <br/>
+        </p>
+        <p style="text-align:center">
+            Schematic diagrams showing the geometry changes of the GNSS-IR due to active layer freezing/thawing.
+        </p>
+    </div>
 </div>
 
 <!--
