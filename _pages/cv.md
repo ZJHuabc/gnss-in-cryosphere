@@ -10,7 +10,7 @@ permalink: /cv/
     <div markdown="0" id="self-photo" class="col-sm-4">
         <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jiahua-dog.JPG" width="100%">
         <p style="text-align:center">
-            Adopting a retired research dog on Jan 16 2017
+            Adopting a retired research dog on January 16, 2017
         </p>
     </div>
     <div markdown="0" id="cv-content" class="col-sm-8">
