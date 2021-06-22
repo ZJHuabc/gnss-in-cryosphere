@@ -10,7 +10,7 @@ Permafrost refers to the ground whose temperature remains at or below 0 °C for 
 
 
 
-![ ]("{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg")
+![ ]("/images/geometry_gpsir_FT.jpg")
 *Schematic diagrams showing the geometry changes of GNSS-IR due to active layer freezing/thawing.*
 
 <!--
