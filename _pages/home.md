@@ -9,10 +9,6 @@ permalink: /
 Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. **Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground.** 
 
 
-{% include image.html url="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" description="Schematic diagrams showing the geometry changes of GNSS-IR due to active layer freezing/thawing." %}
-
-
-
 <img style="float: right" src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="65%">
 Schematic diagrams showing the geometry changes of GNSS-IR due to active layer freezing/thawing.
 GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interference pattern between the direct and reflected signals to measure environmental variables. **GNSS-IR can be used to measure ground surface elevation changes in permafrost areas.** It can also measure snow depth and surface soil moisture content in the layer of 0-5 cm depth.
