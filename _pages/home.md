@@ -11,7 +11,7 @@ Permafrost refers to the ground whose temperature remains at or below 0 °C for 
 
 <figure>
 <img style="float: right" src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="65%">
-<figcaption align = "center"><b>Schematic diagrams showing the geometry changes of GNSS-IR due to active layer freezing/thawing.</b></figcaption>
+<figcaption>Schematic diagrams showing the geometry changes of GNSS-IR due to active layer freezing/thawing.</figcaption>
 </figure>
 GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interference pattern between the direct and reflected signals to measure environmental variables. **GNSS-IR can be used to measure ground surface elevation changes in permafrost areas.** It can also measure snow depth and surface soil moisture content in the layer of 0-5 cm depth.
 
