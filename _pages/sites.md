@@ -85,5 +85,5 @@ Notes:
 [GNET](http://go-gnet.org): Greenland Network  
 
 <br/>
-If you use this dataset, please use the citation:  
+The citation of the dataset:  
 *Zhang, J., & Liu, L. (2021). Mining noise data for monitoring Arctic permafrost by using GNSS interferometric reflectometry. Polar Science, 100649. https://doi.org/10.1016/j.polar.2021.100649*
