@@ -2,7 +2,7 @@
 title: "Links"
 layout: linkslay
 sitemap: false
-permalink: /
+permalink: /links/
 ---
 
 Essential Climate Variables (ECV) for permafrost 
