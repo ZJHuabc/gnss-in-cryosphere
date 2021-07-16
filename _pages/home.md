@@ -39,7 +39,7 @@ Permafrost refers to the ground whose temperature remains at or below 0 °C for 
             <img src="{{ site.url }}{{ site.baseurl }}/images/igarss_2021_0715/Slide2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/igarss_2021_0715/Slide3.JPG" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/igarss_2021_0715/Slide3.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/igarss_2021_0715/Slide4.png" alt="Slide 4" />
