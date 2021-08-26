@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Investigating frozen ground dynamics by using GNSS interferometric reflectometry (GNSS-IR)
-Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. **Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground.** 
+Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. **Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground. GNSS-IR can measure surface elevation changes.** The following slides, presented in the IGARSS 2021, shows the concept of using GNSS-IR to study permafrost and summarizes my findings.
 
 
 <br/>
@@ -79,10 +79,9 @@ Permafrost refers to the ground whose temperature remains at or below 0 °C for 
   </a>
 </div>
 
-
-
 <br/>
 
+<!--
 <img style="float: right" src="{{ site.url }}{{ site.baseurl }}/images/geometry_gpsir_FT.jpg" width="65%">
 GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interference pattern between the direct and reflected signals to measure environmental variables, such as near-surface soil moisture content, snow depth, and water level changes (Larson, 2019). **It can be also used to measure ground surface elevation changes in permafrost areas. (Liu and Larson, 2018)** The left diagram illusrates the changes in GNSS-IR geometry in the active layer freezing/thawing processes. 
 
@@ -92,6 +91,7 @@ GNSS interferometric reflectometry (GNSS-IR) is a technique utilizing the interf
 
 <img style="float: right" src="{{ site.url }}{{ site.baseurl }}/maps/perma_usable_gnss_tsp_calm.png" width="65%">
 Nearly 200 open-data GNSS stations are continuously operating in the permafrost areas in the Northern Hemisphere. However, not all of them are suitable for GNSS-IR applications, as this technique requires the reflecting surface to be open and relatively horizontal and smooth. From the existing ones, we identified 23 suitable sites in the Arctic permafrost regions. At these usable sites, azimuth masks with open and relatively flat and horizontal areas can be determined. The suitable sites can fill some spatial gaps of the current permafrost monitoring networks. Their GNSS-IR measurements of surface elevation changes contribute to probing into frozen ground dynamics. The left map shows the distribution of the suitable GNSS sites and the Circumpolar Active Layer Monitoring and Thermal State of Permafrost sites. Go to **[Sites](./sites)** to see the details of the suitable GNSS stations. 
+-->
 
 <!--
 <div markdown="0" id="usable-sites" class="col-sm-4">
