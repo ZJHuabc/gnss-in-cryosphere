@@ -20,7 +20,7 @@ permalink: /cv/
         </p>
         <h2>Education</h2>
         <p>
-            <b>The Chinese University of Hong Kong</b>, 2017–2021t
+            <b>The Chinese University of Hong Kong</b>, 2017–2021
             <br/>
             <i>Earth System Science Programme, PhD</i>
         </p>
