@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Investigating frozen ground dynamics by using GNSS interferometric reflectometry (GNSS-IR)
-Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. **Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground. GNSS-IR can measure surface elevation changes.** The following slides, presented in the IGARSS 2021, shows the concept of using GNSS-IR to study permafrost and summarizes my findings.
+Permafrost refers to the ground whose temperature remains at or below 0 °C for at least two consecutive years. On top of permafrost is the active layer undergoing seasonal freezing/thawing. The changes in the active layer and permafrost affect the hydrological, geomorphological, and ecological processes. Due to active layer freezing/thawing, the ground surface in a permafrost area is subject to uplift/subsidence. **Surface elevation changes are closely linked to the thermal and hydrological changes in the frozen ground. GNSS-IR can measure surface elevation changes. It can also estimate near-surface soil moisture content and snow depth, which also affect frozen ground dynamics.** The following slides, presented in the IGARSS 2021, shows the concept of using GNSS-IR to study permafrost and summarizes my findings.
 
 
 <br/>
