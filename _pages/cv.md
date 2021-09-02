@@ -23,6 +23,8 @@ permalink: /cv/
             <b>The Chinese University of Hong Kong</b>, 2017–2021
             <br/>
             <i>Earth System Science Programme, PhD</i>
+            <br/>
+            <i>Thesis: Investigating Frozen Ground Dynamics by Using Global Navigation Satellite System Interferometric Reflectometry</i>
         </p>
         <p>
             <b>Wuhan University</b>, 2014–2017
