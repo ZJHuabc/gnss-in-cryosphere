@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**September**
+
+Sep 20, moved to Boulder, Colorado, US.
+
 **August**
 
 Submitted the final version of my PhD thesis. 
