@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**October**
+
+Oct 1, joined University of Colorado Boulder as a PostDoctoral Associate.
+
 **September**
 
 Sep 20, moved to Boulder, Colorado, US.
