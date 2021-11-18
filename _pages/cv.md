@@ -17,6 +17,8 @@ permalink: /cv/
         <h1>Jiahua Zhang (张佳华)</h1>
         <p>
             zhangjiahua@link.cuhk.edu.hk
+            <br/>
+            jiahua.zhang@colorado.edu
         </p>
         <h2>Education</h2>
         <p>
@@ -41,7 +43,11 @@ permalink: /cv/
             GNSS Reflectometry
         </p>
         <p>
-            Frozen ground dynamics in Arctic and Qinghai-Tibet Plateau
+            Cryosphere
+            <ul>
+                <li>Frozen ground dynamics</li>
+                <li>Sea ice</li>
+            </ul>
         </p>
         <p>
             Sea level changes at the coast
