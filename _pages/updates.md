@@ -7,6 +7,7 @@ permalink: /updates
 **December**
 
 Start my new project. I will let you know. ^-^ 
+
 Wish you a happy Christmas holiday!
 
 **October**
