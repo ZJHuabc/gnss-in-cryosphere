@@ -6,7 +6,7 @@ permalink: /updates
 ---
 **March**
 
-Presented at CYGNSS Science Team Meeting to share some preliminary results about GNSS-R applications.
+Mar 9, presented at CYGNSS Science Team Meeting to share some preliminary results about GNSS-R applications.
 
 2022 
 
