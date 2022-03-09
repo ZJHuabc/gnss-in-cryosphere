@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**March**
+
+Presented at CYGNSS Science Team Meeting to share some preliminary results about GNSS-R applications.
+
 **December**
 
 Start my new project. I will let you know. ^-^ 
