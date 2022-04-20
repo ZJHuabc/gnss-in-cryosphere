@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**April**
+
+April 4, IGARSS 2022 conference paper got accepted. Cryosphere and GNSS reflectometry related.
+
 **March**
 
 Mar 9, presented at CYGNSS Science Team Meeting to share some preliminary results about GNSS-R applications.
