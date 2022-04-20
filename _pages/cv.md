@@ -40,20 +40,17 @@ permalink: /cv/
         </p>
         <h2>Research interests</h2>
         <p>
-            GNSS Reflectometry
+            GNSS Reflectometry algorithm development and applications
         </p>
         <p>
             Cryosphere
             <ul>
-                <li>Frozen ground dynamics</li>
+                <li>Permafrost regions</li>
                 <li>Sea ice</li>
             </ul>
         </p>
         <p>
-            Sea level changes at the coast
-        </p>
-        <p>
-            Ground surface water
+            Inland surface water
         </p>
         <h2>Awards</h2>
         <p>Best student paper award @ International Symposium on GNSS 2017</p>
