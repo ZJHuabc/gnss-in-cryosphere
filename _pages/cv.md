@@ -43,7 +43,7 @@ permalink: /cv/
             GNSS Reflectometry algorithm development and applications
         </p>
         <p>
-            Permafrost hydrology
+            Dynamics in permafrost regions
         </p>
         <p>
             Inland surface water
