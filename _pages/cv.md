@@ -43,11 +43,7 @@ permalink: /cv/
             GNSS Reflectometry algorithm development and applications
         </p>
         <p>
-            Cryosphere
-            <ul>
-                <li>Permafrost regions</li>
-                <li>Sea ice</li>
-            </ul>
+            Permafrost hydrology
         </p>
         <p>
             Inland surface water
