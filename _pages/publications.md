@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# peer-reviewed publications
+# Peer-reviewed publications
 
 <!--
 ## Highlights
