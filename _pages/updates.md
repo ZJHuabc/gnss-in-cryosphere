@@ -4,6 +4,14 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**July**
+
+July 19, presented at IGARSS meeting in person. 
+
+**June**
+
+Summitted our paper about using high rate GNSS-R observations to map surface water extents.
+
 **April**
 
 April 4, IGARSS 2022 conference paper got accepted. Cryosphere and GNSS reflectometry related.
