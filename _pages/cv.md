@@ -16,9 +16,9 @@ permalink: /cv/
     <div markdown="0" id="cv-content" class="col-sm-8">
         <h1>Jiahua Zhang (张佳华)</h1>
         <p>
-            zhangjiahua@link.cuhk.edu.hk
+            zhangjiahua [at] link [dot] cuhk [dot] edu [dot] hk
             <br/>
-            jiahua.zhang@colorado.edu
+            jiahua.zhang [at] colorado [dot] edu
         </p>
         <h2>Education</h2>
         <p>
