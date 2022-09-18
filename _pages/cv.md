@@ -26,7 +26,7 @@ permalink: /cv/
             <br/>
             <i>Earth System Science Programme, PhD</i>
             <br/>
-            <i>Thesis: Investigating Frozen Ground Dynamics by Using Global Navigation Satellite System Interferometric Reflectometry</i>
+            <i>Thesis: <a href="https://www.proquest.com/pagepdf/2653255544?accountid=14503">Investigating Frozen Ground Dynamics by Using Global Navigation Satellite System Interferometric Reflectometry</a></i>
         </p>
         <p>
             <b>Wuhan University</b>, 2014–2017
