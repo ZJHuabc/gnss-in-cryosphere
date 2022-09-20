@@ -16,3 +16,7 @@ UK TechDemoSat-1 (TDS-1), a space-borne GNSS-R mission
 GNSS reflectometry (GNSS-R) related publications, including peer reviewed journal papers, PhD dissertations, and books. This archive is maintained by GNSS+R community.
 
 <https://www.ice.csic.es/personal/rius/gnss_r_bibliography/index.html>
+
+Smallsat dataset explorer (including datasets from Planet, Spire, and EarthDEM)
+
+<https://csdap.earthdata.nasa.gov>
