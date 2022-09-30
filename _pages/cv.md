@@ -10,7 +10,7 @@ permalink: /cv/
     <div markdown="0" id="self-photo" class="col-sm-4">
         <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/jiahua.JPG" width="100%">
         <p style="text-align:center">
-            Visited the High Island Reservoir (万宜水库) in Hong Kong 
+            Visiting the High Island Reservoir (万宜水库) in Hong Kong 
         </p>
     </div>
     <div markdown="0" id="cv-content" class="col-sm-8">
