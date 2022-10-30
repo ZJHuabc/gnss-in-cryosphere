@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**October**
+
+October 28, have a new paper got accepted and publised in IEEE TGRS. 
+
 **July**
 
 July 19, presented at IGARSS meeting in person. 
