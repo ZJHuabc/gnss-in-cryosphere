@@ -1,3 +1,3 @@
-This is a website for presenting my researches by applying GNSS-R to permafrost areas.
+This website shows my researches of using GNSS reflectometry to investigate cryosphere and hydrosphere.
 
 This website is modified from the one of Allan's Lab.
