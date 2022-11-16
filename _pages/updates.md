@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**November**
+
+November 9, presented at Solid Earth Team meeting (ESI-SET) in SIO, La Jolla. 
+
 **October**
 
 October 28, have a new paper got accepted and publised in IEEE TGRS. 
