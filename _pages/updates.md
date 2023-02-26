@@ -4,6 +4,19 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+
+**January**
+
+January 17, submitted an abstract to a GNSS reflectometry-related session in IGARSS. I will co-chair this session.
+
+2022 
+
+---
+
+**December**
+
+December 11--15, attended AGU Fall meeting 2022 and met with my previous collegues and friends from Hong Kong. Presented on Dec 14 in a session about hydrology.
+
 **November**
 
 November 9, presented at Solid Earth Team meeting (ESI-SET) in SIO, La Jolla. 
