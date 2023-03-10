@@ -5,6 +5,10 @@ sitemap: false
 permalink: /updates
 ---
 
+**March**
+
+March 7, presented at the CYGNSS Science Team Meeting.
+
 **January**
 
 January 17, submitted an abstract to a GNSS reflectometry-related session in IGARSS. I will co-chair this session.
