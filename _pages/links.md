@@ -20,3 +20,7 @@ GNSS reflectometry (GNSS-R) related publications, including peer reviewed journa
 Smallsat dataset explorer (including datasets from Planet, Spire, and EarthDEM)
 
 <https://csdap.earthdata.nasa.gov>
+
+Total electron content (TEC) of ionosphere provided by Madrigal
+
+<http://millstonehill.haystack.mit.edu>
