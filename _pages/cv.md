@@ -14,7 +14,7 @@ permalink: /cv/
         </p>
     </div>
     <div markdown="0" id="cv-content" class="col-sm-8">
-        <h1>Jiahua J. Zhang (张佳华)</h1>
+        <h1>Jiahua Zhang (张佳华)</h1>
         <p>
             zhangjiahua [at] link [dot] cuhk [dot] edu [dot] hk
             <br/>
