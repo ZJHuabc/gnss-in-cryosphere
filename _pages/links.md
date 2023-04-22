@@ -5,6 +5,7 @@ sitemap: false
 permalink: /links/
 ---
 
+
 UK TechDemoSat-1 (TDS-1), a space-borne GNSS-R mission
 
 <http://merrbys.co.uk>
@@ -21,19 +22,13 @@ Smallsat dataset explorer (including datasets from Planet, Spire, and EarthDEM)
 
 <https://csdap.earthdata.nasa.gov>
 
----
-
 Total electron content (TEC) of ionosphere provided by Madrigal
 
 <http://millstonehill.haystack.mit.edu>
 
----
-
 Global Ecosystem Dynamics Investigation (GEDI) LiDAR onboard ISS
 
 <https://gedi.umd.edu/instrument/instrument-overview/>
-
----
 
 Essential Climate Variables (ECV) for permafrost 
 
