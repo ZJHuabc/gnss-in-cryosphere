@@ -29,8 +29,6 @@ Total electron content (TEC) of ionosphere provided by Madrigal
 
 <http://millstonehill.haystack.mit.edu>
 
-**Altimetry**
-
 Global Ecosystem Dynamics Investigation (GEDI) LiDAR onboard ISS
 
 <https://gedi.umd.edu/instrument/instrument-overview/>
