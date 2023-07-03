@@ -5,7 +5,7 @@ sitemap: false
 permalink: /updates
 ---
 
-**March**
+**June**
 
 June 30, submitted our paper "Inland water body surface height retrievals using CYGNSS delay Doppler maps". 
 
