@@ -9,6 +9,10 @@ permalink: /updates
 
 October 16, joined UCAR as a project scientist  
 
+**July**
+
+July 18, presented in IGARSS 2023  
+
 **June**
 
 June 30, submitted our paper "Inland water body surface height retrievals using CYGNSS delay Doppler maps". 
