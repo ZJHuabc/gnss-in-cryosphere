@@ -40,10 +40,10 @@ permalink: /cv/
         </p>
         <h2>Employment</h2>
         <p>
-            <b>University of Colorado Boulder, Postdoc </b>, 2021/10–2023/10
+            <b>University of Colorado Boulder, Postdoc</b>, 2021/10–2023/10
         </p>
         <p>
-            <b>University Corporation for Atmospheric Research (UCAR), Project Scientist </b>, 2023/10–Present
+            <b>University Corporation for Atmospheric Research (UCAR), Project Scientist</b>, 2023/10–Present
         <h2>Research interests</h2>
         <p>
             GNSS Reflectometry algorithm development and applications
