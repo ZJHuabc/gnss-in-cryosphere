@@ -7,8 +7,8 @@ permalink: /updates
 
 **October**
 
-October 16, joined UCAR as a project scientist  
-November 30, attended IEEE MAMI WATA Workshop
+Oct 16, joined UCAR as a project scientist  
+Nov 30, attended the IEEE MAMI WATA Workshop
 
 **July**
 
