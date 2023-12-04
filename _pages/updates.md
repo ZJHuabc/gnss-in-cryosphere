@@ -8,7 +8,7 @@ permalink: /updates
 **October**
 
 October 16, joined UCAR as a project scientist  
-October 23, Awarded the travel grant to attend IEEE MAMI WATA Workshop
+November 30, attended IEEE MAMI WATA Workshop
 
 **July**
 
