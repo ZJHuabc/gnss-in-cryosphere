@@ -21,6 +21,14 @@
   link:
     url: https://www.grss-ieee.org/technical-committees/modeling-in-remote-sensing/?tab=workshop
     display: IEEE MAMI WATA Workshop, 2023
+
+- title: "ESTIMATING INLAND WATER LEVELS BY CYGNSS LEVEL 1 DELAY DOPPLER MAPS"
+  image:
+  authors: Jiahua Zhang and Y. Jade Morton
+  year: Jul, 2023
+  link:
+    url: 
+    display: IEEE IGARSS, 2023
     
 - title: "Estimating inland water levels using CYGNSS level-1 DDM data"
   image:
