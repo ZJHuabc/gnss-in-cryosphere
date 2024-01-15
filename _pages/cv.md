@@ -18,7 +18,7 @@ permalink: /cv/
         <p>
             zhangjiahua [at] link [dot] cuhk [dot] edu [dot] hk
             <br/>
-            jiahua.zhang [at] colorado [dot] edu
+            jiahuaz [at] ucar [dot] edu
         </p>
         <h2>Education</h2>
         <p>
@@ -44,6 +44,7 @@ permalink: /cv/
         </p>
         <p>
             <b>University Corporation for Atmospheric Research (UCAR), Project Scientist</b>, 2023/10–Present
+        </p>
         <h2>Research interests</h2>
         <p>
             GNSS Reflectometry algorithm development and applications
