@@ -4,11 +4,24 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**Dec**
+
+Jan 11, attended the IEEE URSI NRSM 
+
+2024
+
+---
+**Dec**
+
+Dec 11, attended the AGU Fall Meeting
+
+**Nov**
+
+Nov 30, attended the IEEE MAMI WATA Workshop
 
 **October**
 
 Oct 16, joined UCAR as a project scientist  
-Nov 30, attended the IEEE MAMI WATA Workshop
 
 **July**
 
