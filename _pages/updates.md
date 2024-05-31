@@ -4,7 +4,7 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
-**Dec**
+**Jan**
 
 Jan 11, attended the IEEE URSI NRSM 
 
