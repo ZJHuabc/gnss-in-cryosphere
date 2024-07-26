@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**Jul**
+
+Jul 10, IGARSS, had a poster about using Spire Global's GNSS-R reflectivity observations to monitor surface soil moisture content 
+
 **Jan**
 
 Jan 11, attended the IEEE URSI NRSM 
