@@ -4,6 +4,10 @@ layout: updateslay
 sitemap: false
 permalink: /updates
 ---
+**Sep**
+
+Sep 16, IROWG-10, presented our updated results about using Spire reflection data to map soil moisture content and soil inundation. 
+
 **Jul**
 
 Jul 10, IGARSS, had a poster about using Spire Global's GNSS-R reflectivity observations to monitor surface soil moisture content 
